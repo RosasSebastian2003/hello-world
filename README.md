@@ -4,6 +4,8 @@
 # Matricua: A01233989
 # Carrera: ITC
 # Semestre: 4to
+
+# Nombre del colaborador
 ---
 **Bold Semana Tec 12**
 *Italic*
